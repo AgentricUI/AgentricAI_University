@@ -1,0 +1,37 @@
+# 📜 AgentricAI License Agreement
+
+Copyright (c) 2025 Brandon A. Myers  
+All rights reserved.
+
+This software and its associated assets are the proprietary intellectual property of AgentricAI.
+
+---
+
+## 🔐 License Terms
+
+- You may **use** this software for **educational and non-commercial purposes** only.  
+- You may **not modify, redistribute, or commercialize** any part of this codebase or its branded assets.  
+- You may **not alter or remove** any branding, licensing, or author attribution.  
+- You may **not deploy** derivative works without written permission from the author.
+
+---
+
+## 🛡️ Freemium Model
+
+AgentricAI University is offered under a freemium model:
+- **Free access** for educational, ethical, and non-commercial use  
+- **Commercial licensing** available upon request
+
+---
+
+## 📬 Contact
+
+For licensing inquiries, partnerships, or commercial use:  
+📧 [agentricaiuiux@gmail.com](mailto:agentricaiuiux@gmail.com)
+
+---
+
+## ⚖️ Legal Notice
+
+Violation of this license may result in revocation of access and legal action.  
+All rights reserved under U.S. and international copyright law.
