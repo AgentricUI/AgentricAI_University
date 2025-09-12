@@ -1,0 +1,13 @@
+Contributors
+
+AgentricAI University is a personal and protected project authored by:
+
+Brandon A. Myers  
+Founder, Architect, and Visionary behind AgentricAI  
+agentricaiuiux@gmail.com
+
+Contribution Policy  
+This repository is not open to public contributions at this time.  
+All code, workflows, and branded assets are proprietary and protected under the AgentricAI License Agreement.
+
+If you're interested in collaboration, educational partnerships, or ethical deployment initiatives, please reach out directly.
