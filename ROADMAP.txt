@@ -1,0 +1,18 @@
+AgentricAI University Roadmap
+
+Vision  
+To build emotionally intelligent, ethically grounded, and resilient agentic systems that empower learners and creators alike.
+
+Milestones  
+2024 Q4 – Launch of AgentricAI Studios foundational projects  
+2025 Q1 – Expansion of agentic workflow prototypes and community testing  
+2025 Q2 – Research publication on multi-agent collaboration frameworks  
+2025 Q3 – Open-source release of select non-commercial tools for education  
+2026+    – Scaling R&D with broader collaboration on ethical autonomous systems
+
+Future Goals  
+- Adaptive curriculum agents for personalized learning  
+- Modular sandbox expansion with secure deployment protocols  
+- Integration of OlaMaa GPT orchestration for multi-agent collaboration  
+- Branded onboarding portals for educators and students  
+- Persistent conversational memory seeded with ML insights
